@@ -19,3 +19,4 @@ procesa la información de libros y autores, y los guarda en la base de datos Po
 -Java 17
 - PostgreSQL 14+
 ----------
+![Imagen d](https://github.com/user-attachments/assets/48ed9a03-3aaa-4036-8643-44cfe0884746)
